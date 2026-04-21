@@ -4,4 +4,4 @@ SmartARV Skill Check is a Java-based application developed to assess students' s
 
 **Technologies Used:** Java, Java Swing, Object-Oriented Programming (OOP).
 
-This project demonstrates the implementation of GUI-based applications, authentication timed exams, and result evaluation using Java.
+This project demonstrates the implementation of GUI-based applications, authentication, timed exams, and result evaluation using Java.
